@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "path": "../../Desktop/CompletedPortfolio"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "CompletedPortfolio",
+    "liveServer.settings.port": 5501
+  }
+}
